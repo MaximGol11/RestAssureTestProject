@@ -1,4 +1,4 @@
-package pojo;
+package api_tests.pojo;
 
 import lombok.Getter;
 import lombok.Setter;

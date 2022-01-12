@@ -1,9 +1,9 @@
-package requres_in_test;
+package api_tests.pojo.requres_in_test;
 
 import io.restassured.http.ContentType;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import pojo.UserData;
+import api_tests.pojo.UserData;
 
 import java.util.List;
 
